@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Academic</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Academic</description>
+    <title>Posts on Renke Schmacker</title>
+    <link>https://rschmacker.github.io/rschmacker_page/post/</link>
+    <description>Recent content in Posts on Renke Schmacker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rschmacker.github.io/rschmacker_page/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Research</title>
+      <link>https://rschmacker.github.io/rschmacker_page/post/research/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rschmacker.github.io/rschmacker_page/post/research/</guid>
+      <description>Published Papers Social Image Concerns and Welfare Take-Up with Jana Friedrichsen and Tobias König, Journal of Public Economics, 168, pp. 174-192. (Link) Abstract: Using a laboratory experiment, we present first evidence that social image concerns causally reduce the take-up of an individually benecial transfer. Our design manipulates the informativeness of the take-up decision by varying whether transfer eligibility is based on ability or luck, and how the transfer is financed. We find that subjects avoid the inference both of being low-skilled (ability stigma) and of being willing to live off others (free-rider stigma).</description>
+    </item>
     
   </channel>
 </rss>

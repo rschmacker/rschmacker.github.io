@@ -1,14 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>/</link>
-    <description>Recent content on Academic</description>
+    <title>Renke Schmacker</title>
+    <link>https://rschmacker.github.io/rschmacker_page/</link>
+    <description>Recent content on Renke Schmacker</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://rschmacker.github.io/rschmacker_page/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Research</title>
+      <link>https://rschmacker.github.io/rschmacker_page/post/research/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rschmacker.github.io/rschmacker_page/post/research/</guid>
+      <description>&lt;h3&gt;&lt;strong&gt;Published Papers&lt;/strong&gt;&lt;/h3&gt;
+&lt;strong&gt;Social Image Concerns and Welfare Take-Up&lt;/strong&gt;
+with Jana Friedrichsen and Tobias König, &lt;em&gt;Journal of Public Economics&lt;/em&gt;, 168, pp. 174-192. (&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0047272718302068&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;)
+
+
+Abstract: 
+Using a laboratory experiment, we present first evidence that social image concerns causally reduce the take-up of an individually benecial transfer. Our design manipulates the informativeness of the take-up decision by varying whether transfer eligibility is based on ability or luck, and how the transfer is financed. We find that subjects avoid the inference both of being low-skilled (ability stigma) and of being willing to live off others (free-rider stigma). Using a placebo treatment, we exclude other explanations for the observed stigma effects. Although stigma reduces take-up, elicitation of political preferences reveals that only a minority of &#34;taxpayers&#34; vote for the public transfer.
+
+&lt;h3&gt;&lt;strong&gt;Working Papers&lt;/strong&gt;&lt;/h3&gt;
+&lt;strong&gt;Earn More Tomorrow: Overconident Income Expectations and Consumer Indebtedness&lt;/strong&gt;
+with Antonia Grohmann, Lukas Menkhoff and Christoph Merkle, &lt;em&gt;CRC TRR 190 Discussion Paper No. 152&lt;/em&gt;. (&lt;a href=&#34;https://rationality-and-competition.de/wp-content/uploads/discussion_paper/152.pdf&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;)
+
+Abstract:
+This paper examines whether biased income expectations due to overconfidence lead to higher levels of debt-taking. In a lab experiment, participants can purchase goods by borrowing against their future income. We exogenously manipulate income expectations by letting income depend on relative performance in hard and easy quiz tasks. We successfully generate biased income expectations and show that participants with higher income expectations initially borrow more. Overconfident participants scale back their consumption after feedback. However, at the end of the experiment they remain with higher debt levels, which represent real financial losses. To assess the external validity, we nd further evidence for the link between overcondence and borrowing behavior in a representative survey (GSOEP-IS).
+
+&lt;h3&gt;&lt;strong&gt;Work in Progress&lt;/strong&gt;&lt;/h3&gt;
+&lt;strong&gt;Can Sin Taxes Help Consumers with Low Self-Control? Evidence from Danish Soft Drink Tax Reforms&lt;/strong&gt;
+with Sinne Smed
+
+&lt;strong&gt;Soft Drink Taxation and Demand Persistence&lt;/strong&gt;
+
+&lt;strong&gt;Matching and Voting. What Drives Preferences for Matching Mechanism?&lt;/strong&gt;
+with Tobias König, Dorothea Kübler and Lydia Mechtenberg
+
+
+
+&lt;h3&gt;&lt;strong&gt;Policy reports&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Softdrinksteuer: Proportionale Steuer ist der vielversprechendste Ansatz, DIW Aktuell 10, May 2018. (&lt;a href=&#34;https://www.diw.de/documents/publikationen/73/diw_01.c.583812.de/diw_aktuell_10.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Eine Softdrinksteuer zur fiskalischen Konsumsteuerung, DIW Roundup 103, November 2016. (&lt;a href=&#34;https://www.diw.de/documents/publikationen/73/diw_01.c.546337.de/diw_roundup_103_de.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
