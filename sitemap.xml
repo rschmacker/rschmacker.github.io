@@ -3,52 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rschmacker.github.io/rschmacker_page/authors/admin/</loc>
+    <loc>https://rschmacker.github.io/authors/admin/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rschmacker.github.io/rschmacker_page/authors/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rschmacker.github.io/rschmacker_page/post/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rschmacker.github.io/rschmacker_page/</loc>
+    <loc>https://rschmacker.github.io/authors/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rschmacker.github.io/rschmacker_page/post/research/</loc>
+    <loc>https://rschmacker.github.io/post/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rschmacker.github.io/rschmacker_page/categories/</loc>
+    <loc>https://rschmacker.github.io/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rschmacker.github.io/rschmacker_page/publication_types/</loc>
+    <loc>https://rschmacker.github.io/post/research/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rschmacker.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rschmacker.github.io/rschmacker_page/publication/</loc>
+    <loc>https://rschmacker.github.io/publication_types/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rschmacker.github.io/rschmacker_page/talk/</loc>
+    <loc>https://rschmacker.github.io/publication/</loc>
   </url>
   
   <url>
-    <loc>https://rschmacker.github.io/rschmacker_page/tags/</loc>
+    <loc>https://rschmacker.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rschmacker.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   

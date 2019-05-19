@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Renke Schmacker</title>
-    <link>https://rschmacker.github.io/rschmacker_page/publication/</link>
+    <link>https://rschmacker.github.io/publication/</link>
     <description>Recent content in Publications on Renke Schmacker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://rschmacker.github.io/rschmacker_page/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rschmacker.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
